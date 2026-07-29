@@ -898,7 +898,7 @@ class AdvancedBot(BaseBot):
             "floating": "idle-floating",
             "halo": "emoji-halo",
             "launch": "emote-launch",
-            "shy2": "emote-shy2",
+            "bashfulblush": "emote-shy2",
             "dizzy": "emoji-dizzy",
             "howl": "idle-howl",
             "twerkltqut": "dance-twerk",
