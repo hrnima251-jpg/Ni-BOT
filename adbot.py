@@ -317,7 +317,7 @@ class AdvancedBot(BaseBot):
             "226": "emote-spiderman",
             "227": "dance-breakdance",
             "228": "dance-twerk",
-            "229": "",
+            "229": "dance-ballet",
             "230": "sit-idle-cute",
             "231": "dance-true-heart",
             "232": "dance-griddy",
@@ -606,7 +606,7 @@ class AdvancedBot(BaseBot):
             "۲۲۵": "dance-tiktok13",
             "۲۲۶": "emote-spiderman",
             "۲۲۷": "dance-breakdance",
-            "۲۲۸": "",
+            "۲۲۸": "dance-ballet",
             "۲۲۹": "idle-space",
             "۲۳۰": "sit-idle-cute",
             "۲۳۱": "dance-true-heart",
@@ -812,7 +812,7 @@ class AdvancedBot(BaseBot):
             "Hyped": "emote-hyped",
             "Jinglebell": "dance-jinglebell",
             "Nervous": "idle-nervous",
-            "Toilet": "idle-toilet",
+            "gottago": "idle-toilet",
             "Attention": "emote-attention",
             "laidback": "sit-open",
             "Astronaut": "emote-astronaut",
@@ -918,7 +918,6 @@ class AdvancedBot(BaseBot):
             "griddy": "dance-griddy",
             "looptapdance": "idle-loop-tapdance",
             "astronaut": "emote-astronaut",
-            "toilet": "idle-toilet",
             "inging": "idle_singing",
             "tiktok9": "dance-tiktok9",
             "teleporting": "emote-teleporting",
@@ -933,6 +932,7 @@ class AdvancedBot(BaseBot):
             "heartshape": "emote-heartshape",
             "snowball": "emote-snowball",
             "zerogravitychill": "idle-space",
+            "balletbliss": "dance-ballet",
             "phonecamera": "idle-phone-camera"
         }
 
