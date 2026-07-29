@@ -901,7 +901,7 @@ class AdvancedBot(BaseBot):
             "bashfulblush": "emote-shy2",
             "dizzy": "emoji-dizzy",
             "howl": "idle-howl",
-            "twerkltqut": "dance-twerk",
+            "twerkltout": "dance-twerk",
             "freshprince": "dance-freshprince",
             "fruity": "dance-fruity",
             "wild": "dance-wild",
