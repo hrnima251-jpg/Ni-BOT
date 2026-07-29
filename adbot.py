@@ -932,6 +932,7 @@ class AdvancedBot(BaseBot):
             "spiritual": "dance-spiritual",
             "heartshape": "emote-heartshape",
             "snowball": "emote-snowball",
+            "zerogravitychill": "idle-space",
             "phonecamera": "idle-phone-camera"
         }
 
