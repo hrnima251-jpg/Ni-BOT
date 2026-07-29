@@ -706,7 +706,7 @@ class AdvancedBot(BaseBot):
             "snowAngel": "emote-snowangel",
             "shyemote": "emote-shy",
             "secrehandshake": "emote-secrethandshake",
-            "sad": "emote-sad",
+            "poutyface": "emote-sad",
             "ropepull": "emote-ropepull",
             "roll": "emote-roll",
             "rofl": "emote-rofl",
