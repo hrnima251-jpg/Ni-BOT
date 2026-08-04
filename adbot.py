@@ -908,7 +908,7 @@ class AdvancedBot(BaseBot):
             "spiritual": "dance-spiritual",
             "anime": "dance-anime",
             "swagbounce": "dance-swagbounce",
-            "mine": "dance-mine",
+            "minedance": "dance-mine",
             "woah": "dance-woah",
             "popularvibe": "dance-popularvibe",
             "laidBack": "idle-laidBack",
