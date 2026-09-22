@@ -379,6 +379,7 @@ class AdvancedBot(BaseBot):
             "288": "emote-heartshape",
             "289": "emote-snowball",
             "290": "idle-phone-camera",
+            "291": "idle-laying-phone-talking"
             "۱": "idle_zombie",
             "۲": "idle_layingdown2",
             "۳": "idle_layingdown",
@@ -669,6 +670,7 @@ class AdvancedBot(BaseBot):
             "۲۸۸": "emote-heartshape",
             "۲۸۹": "emote-snowball",
             "۲۹۰": "idle-phone-camera",
+            "۲۹۱": "idle-laying-phone-talking"
             "zombie": "idle_zombie",
             "relaxed": "idle_layingdown2",
             "attentive": "idle_layingdown",
@@ -933,7 +935,8 @@ class AdvancedBot(BaseBot):
             "snowball": "emote-snowball",
             "zerogravitychill": "idle-space",
             "balletbliss": "dance-ballet",
-            "phonecamera": "idle-phone-camera"
+            "phonecamera": "idle-phone-camera",
+            "yapattack": "idle-laying-phone-talking"
         }
 
         self.emote_durations = {
