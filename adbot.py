@@ -869,7 +869,7 @@ class AdvancedBot(BaseBot):
             "creepycute": "emote-creepycute",
             "frustrated": "emote-frustrated",
             "pose10": "emote-pose10",
-            "relaxedsit": "sit-relaxed",
+            "pepose": "sit-relaxed",
             "stargazing": "emote-stargaze",
             "slap": "emote-slap",
             "boxer": "emote-boxer",
